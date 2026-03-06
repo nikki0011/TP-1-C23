@@ -14,7 +14,7 @@ if (!isNaN(num)) {
     pantalla.innerHTML =
       "<span class='text-secundary ms-3'>El numero " +
       num +
-      " no es visible por 2  </span> ";
+      " no es visible por 2 </span> ";
   }
 } else {
   alert(
